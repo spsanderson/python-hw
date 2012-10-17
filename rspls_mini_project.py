@@ -101,6 +101,4 @@ rpsls("scissors")
 
 print "to play simply enter rpsls('name') where name is the choice and press return"
 
-# always remember to check your completed program against the grading rubric
-
 
