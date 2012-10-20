@@ -1,0 +1,14 @@
+This is a very simple line code game written in python inside of the 
+codeskultptor browser python interpreter.
+
+The game works in the following manner:
+
+Type rspls("name") in the interpreter, where name can be anyone of the following:
+"rock"
+"Spock"
+"paper"
+"lizard"
+"scissors"
+
+The computer will automatically make a random choice and the results of Win, Loose, Tie will be displayed
+
