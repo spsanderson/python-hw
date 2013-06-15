@@ -11,7 +11,7 @@ pyg = 'ay'
 word = ''
 
 # This is how we get the promprt asking the user to input a word
-original = raw_input('Enter Word Please:')
+original = raw_input('Enter Word Please: ')
 
 # if / else block with a nested if / else block
 # The outer if / else block checks to make sure that
